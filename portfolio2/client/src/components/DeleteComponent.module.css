@@ -1,0 +1,25 @@
+.main_div {
+	padding: 20px;
+	margin: auto;
+	margin-top: 50px;
+	width: 200px;
+	height: 200px;
+	background-color: rgb(219, 217, 217);
+}
+.main_div > input,
+.main_div > select,
+.main_div > textarea {
+	display: block;
+	padding: 4px;
+	margin: 5px 0;
+}
+.main_div > select {
+	width: 100px;
+}
+
+.main_div > button {
+	padding: 4px;
+	width: 100px;
+	margin: 8px 35px;
+	cursor: pointer;
+}

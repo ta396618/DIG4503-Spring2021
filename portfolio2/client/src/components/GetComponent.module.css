@@ -1,0 +1,19 @@
+.main_div {
+	padding: 20px;
+	margin: auto;
+	margin-top: 50px;
+	width: 200px;
+	height: 300px;
+	background-color: rgb(219, 217, 217);
+}
+.main_div > input {
+	display: block;
+	padding: 4px;
+	margin: 5px 0;
+}
+.main_div > button {
+	padding: 4px;
+	width: 100px;
+	margin: 8px 35px;
+	cursor: pointer;
+}
